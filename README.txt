@@ -1,4 +1,4 @@
-Instrustions:
+Instructions:
 -  Make sure the two .mp4 files are in the same folder as this script.
 -  Make sure all necessary libraries are installed.
 -  Run the program.
