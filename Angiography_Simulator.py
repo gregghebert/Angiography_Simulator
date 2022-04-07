@@ -3,7 +3,7 @@ Gregg Hebert – 1657892 – NSM - Undergraduate
 Mubashir Khan - 1521657 - NSM - Undergraduate
 George Coll Rodriguez - 1529011 – NSM – Undergraduate
 
-Instrustions:
+Instructions:
 -  Make sure the two .mp4 files are in the same folder as this script.
 -  Make sure all necessary libraries are installed.
 -  Run the program.
